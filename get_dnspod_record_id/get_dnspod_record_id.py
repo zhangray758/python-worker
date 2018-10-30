@@ -2,14 +2,15 @@
 
 import requests
 import json
+import argparse
 
 #Url = 'https://dnsapi.cn/Record.List'
 #domain = '.qiniudn.com'
 
-def Get_Record_id(Url):
+def Get_Record_id(Url,domain):
     with open('qiniudn.com','r',encoding='utf-8') as f:
         for line in f.readlines():
-            sub = line.split('.qiniudn.com')[0]
+            sub = line.split(domain)[0]
             #print(sub)
 
             data = {
@@ -31,4 +32,4 @@ def Get_Record_id(Url):
                 pass
 
 if __name__ == "__main__":
-    Get_Record_id('https://dnsapi.cn/Record.List')
+    Get_Record_id('https://dnsapi.cn/Record.List','.qiniudn.com')

@@ -7,3 +7,4 @@ tuilixy-attachments.u.qiniudn.com
 taylor.u.qiniudn.com
 xiewentao.u.qiniudn.com
 sucai.u.qiniudn.com
+ayootu.u.qiniudn.com
