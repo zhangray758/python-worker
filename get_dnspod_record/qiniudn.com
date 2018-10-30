@@ -1,0 +1,9 @@
+pdfpdf.u.qiniudn.com
+mclaunchercdn.qiniudn.com
+phpac.u.qiniudn.com
+test-yun.u.qiniudn.com
+jidin.u.qiniudn.com
+tuilixy-attachments.u.qiniudn.com
+taylor.u.qiniudn.com
+xiewentao.u.qiniudn.com
+sucai.u.qiniudn.com
